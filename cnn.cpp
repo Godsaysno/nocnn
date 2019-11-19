@@ -2,7 +2,8 @@
 #include <fstream>
 #include <cmath>
 #include "cnn.h"
-
+#include <string.h>
+#include <assert.h>
 // ----------------------------------------------------------------------
 
 CNN::CNN(void)
