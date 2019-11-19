@@ -3,7 +3,8 @@
 #include <climits>
 #include <cfloat>
 #include "noc.h"
-
+#include <string.h>
+#include <assert.h>
 
 // ----------------------------------------------------------------------
 
